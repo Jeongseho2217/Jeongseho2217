@@ -1,7 +1,6 @@
 ## 안녕하세요!
 
-![badge](<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-)
+![badge](https://img.shields.io/badge/GitHub-181717)
 
 ### 좋아하는 것
 - 게임 개발
