@@ -10,6 +10,6 @@
 | DevTool | Skills |
 |---------|--------|
 | Unity | Java |
-| - | C, C# |
-| - | Python |
+| RblxStudio | C, C# |
+| Unreal 5 | Python |
 | - | LuaScript |
